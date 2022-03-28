@@ -423,7 +423,7 @@ let buttonState = Input.instance.isButtonPressed(ActionButton.POINTER)
 if(buttonState.BUTTON_DOWN){
   log("button is being held down")
 } else {
-  log("button is up
+  log("button is up")
 }
 ```
 
